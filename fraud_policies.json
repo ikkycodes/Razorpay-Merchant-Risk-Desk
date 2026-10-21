@@ -1,0 +1,26 @@
+[
+  {
+    "policy_id": "P1",
+    "text": "Card stolen or lost policy: if a card payment is reported stolen or lost, block the card, notify the customer, and hold the transaction for card risk review."
+  },
+  {
+    "policy_id": "P2",
+    "text": "UPI phishing and collect request fraud policy: unexpected UPI collect requests and phishing links require upi risk team verification and temporary hold."
+  },
+  {
+    "policy_id": "P3",
+    "text": "High value new device purchase policy: purchases above threshold from a new device need merchant ops verification and account age check."
+  },
+  {
+    "policy_id": "P4",
+    "text": "Account takeover night transaction policy: night time logins from new locations indicate possible account takeover; escalate to customer care and hold."
+  },
+  {
+    "policy_id": "P5",
+    "text": "Merchant refund and chargeback abuse policy: repeated refunds and chargeback filings need merchant ops audit and transaction hold."
+  },
+  {
+    "policy_id": "P6",
+    "text": "Travel ticket cancellation fraud policy: bulk travel bookings with quick cancellations require merchant ops review and block if fraudulent."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "Q1",
+    "query": "my card was stolen and used without permission",
+    "expected_policy": "P1"
+  },
+  {
+    "query_id": "Q2",
+    "query": "received fake upi collect request phishing link",
+    "expected_policy": "P2"
+  },
+  {
+    "query_id": "Q3",
+    "query": "high value purchase made from new device verification",
+    "expected_policy": "P3"
+  },
+  {
+    "query_id": "Q4",
+    "query": "night transaction from new location account takeover",
+    "expected_policy": "P4"
+  },
+  {
+    "query_id": "Q5",
+    "query": "customer filed chargeback and refund abuse audit",
+    "expected_policy": "P5"
+  },
+  {
+    "query_id": "Q6",
+    "query": "bulk travel ticket booking and cancellation fraud",
+    "expected_policy": "P6"
+  },
+  {
+    "query_id": "Q7",
+    "query": "lost card blocked after stolen transaction",
+    "expected_policy": "P1"
+  },
+  {
+    "query_id": "Q8",
+    "query": "upi phishing collect request verification needed",
+    "expected_policy": "P2"
+  },
+  {
+    "query_id": "Q9",
+    "query": "what is the weather today in Mumbai",
+    "expected_policy": "no_policy_match"
+  },
+  {
+    "query_id": "Q10",
+    "query": "xyzzy qwerty asdfgh zxcvbn",
+    "expected_policy": "no_policy_match"
+  }
+]

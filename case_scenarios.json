@@ -1,0 +1,72 @@
+[
+  {
+    "scenario_id": "S1",
+    "txn_id": "T900010",
+    "fraud_probability": 0.82,
+    "amount_inr": 12000.0,
+    "question": "Card stolen, block immediately?"
+  },
+  {
+    "scenario_id": "S2",
+    "txn_id": "T900011",
+    "fraud_probability": 0.75,
+    "amount_inr": 8500.0,
+    "question": "UPI phishing collect request?"
+  },
+  {
+    "scenario_id": "S3",
+    "txn_id": "T900012",
+    "fraud_probability": 0.68,
+    "amount_inr": 62000.0,
+    "question": "High value new device purchase?"
+  },
+  {
+    "scenario_id": "S4",
+    "txn_id": "T900013",
+    "fraud_probability": 0.71,
+    "amount_inr": 15000.0,
+    "question": "Night account takeover?"
+  },
+  {
+    "scenario_id": "S5",
+    "txn_id": "T900014",
+    "fraud_probability": 0.66,
+    "amount_inr": 9500.0,
+    "question": "Chargeback abuse case?"
+  },
+  {
+    "scenario_id": "S6",
+    "txn_id": "T900015",
+    "fraud_probability": 0.78,
+    "amount_inr": 22000.0,
+    "question": "Travel cancellation fraud?"
+  },
+  {
+    "scenario_id": "S7",
+    "txn_id": "T900016",
+    "fraud_probability": 0.59,
+    "amount_inr": 18000.0,
+    "question": "Card stolen again?"
+  },
+  {
+    "scenario_id": "S8",
+    "txn_id": "T900017",
+    "fraud_probability": 0.81,
+    "amount_inr": 11000.0,
+    "question": "UPI phishing again?"
+  },
+  {
+    "scenario_id": "S9",
+    "txn_id": "T900018",
+    "fraud_probability": 0.62,
+    "amount_inr": 54000.0,
+    "question": "High value device check?"
+  },
+  {
+    "scenario_id": "S10",
+    "txn_id": "T900019",
+    "fraud_probability": 0.73,
+    "amount_inr": 13500.0,
+    "question": "Night takeover again?"
+  }
+]
